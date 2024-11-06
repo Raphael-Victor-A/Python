@@ -1,0 +1,14 @@
+{
+  "S": ["NP VP", "S S", "VP NP", "Adv S", "S Conj S"],
+  "NP": ["Det N", "Det Adj N", "Adj N", "N"],
+  "VP": ["V NP", "V Adv", "V Adj NP", "V NP PP"],
+  "PP": ["Prep NP", "Prep Adj NP"],
+  "Det": ["o", "a", "os", "as", "um", "uma", "uns", "umas"],
+  "N": ["homem", "mulher", "crianca", "cachorro", "gato", "cidade", "livro", "carro", "casa", "floresta", "professor", "aluno", "jardim", "computador", "aviao"],
+  "Adj": ["velho", "novo", "grande", "pequeno", "rapido", "lento", "alto", "baixo", "inteligente", "corajoso"],
+  "V": ["corre", "come", "fala", "le", "pula", "escreve", "anda", "dirige", "observa", "compra", "vende", "ensina", "aprende", "viaja"],
+  "Adv": ["rapidamente", "lentamente", "cuidadosamente", "alegremente", "triste", "de repente"],
+  "Prep": ["em", "com", "para", "de", "sobre", "contra"],
+  "Conj": ["e", "mas", "ou", "entao", "porem"],
+  "Extras": ["com", "para", "e", "mas", "ou", "no entanto", "ainda assim", "logo"]
+}
